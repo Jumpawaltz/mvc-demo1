@@ -34,30 +34,43 @@ body > .page > section{
     border: 1px solid blue;
 }
 #app1 .actions{}
-#app2{}
-#app2 .tab-bar{
-    display:flex;
-}#app2 .tab-bar>li{
-     width: 25vw;
-    border: 1px solid red;
+#app2 {
 }
-#app2 .tab-content{}
-#app2 .tab-bar >li.selected{
-    background: red;
+
+#app2 .tab-bar {
+    display: flex;
 }
-#app2 .tab-content >li.actions{
-      display: block;
-      background: rgba(179, 255, 60, 0.4);
-  }
-#app2 .tab-content >li{
+
+#app2 .tab-bar > li {
+    width: 25vw;
+    height: 5vh;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+#app2 .tab-content {
+}
+
+#app2 .tab-bar > li.selected {
+    color: white;
+    background: #0052ff;
+}
+
+#app2 .tab-content > li.actions {
+    margin-top: 2vh;
+    height: 4vh;
+    display: block;
+    background: rgba(0, 241, 255, 0.4);
+}
+
+#app2 .tab-content > li {
     display: none;
 }
 #app3 .square {
     margin-left: 10px;
     margin-top: 14px;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
+    width: 100px;
+    height: 100px;
     background: red;
     transition: transform 1s;
 }
@@ -67,8 +80,8 @@ body > .page > section{
 
 }
 #app4 .circle {
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     margin-left: 30px;
     margin-top: 30px;
     border-radius: 50%;
@@ -89,4 +102,4 @@ body > .page > section{
 }
 
 
-/*# sourceMappingURL=/main.1f19ae8e.css.map */
+/*# sourceMappingURL=main.e7aa7134.css.map */

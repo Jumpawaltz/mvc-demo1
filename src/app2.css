@@ -1,18 +1,32 @@
-#app2{}
-#app2 .tab-bar{
-    display:flex;
-}#app2 .tab-bar>li{
-     width: 25vw;
-    border: 1px solid red;
+#app2 {
 }
-#app2 .tab-content{}
-#app2 .tab-bar >li.selected{
-    background: red;
+
+#app2 .tab-bar {
+    display: flex;
 }
-#app2 .tab-content >li.actions{
-      display: block;
-      background: rgba(179, 255, 60, 0.4);
-  }
-#app2 .tab-content >li{
+
+#app2 .tab-bar > li {
+    width: 25vw;
+    height: 5vh;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+#app2 .tab-content {
+}
+
+#app2 .tab-bar > li.selected {
+    color: white;
+    background: #0052ff;
+}
+
+#app2 .tab-content > li.actions {
+    margin-top: 2vh;
+    height: 4vh;
+    display: block;
+    background: rgba(0, 241, 255, 0.4);
+}
+
+#app2 .tab-content > li {
     display: none;
 }
