@@ -1,0 +1,10 @@
+#app1{
+    /*height: 50vw;*/
+    /*width: 50vw;*/
+}
+#app1 .output{
+    width: 30%;
+
+    border: 1px solid blue;
+}
+#app1 .actions{}

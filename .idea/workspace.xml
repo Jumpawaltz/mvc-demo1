@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fdb879a-a002-4d27-aafd-da6417b975e3" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/03/011c06ed69b68f47c3bc77fd12b347.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/17/cd701f454661cb0fc11336c6609edf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/32/42adec86ed2379503bf5815506d14a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/3f/b7240b70f34ab351c950c246c1ed7e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4b/5edbf2bfdc020ee89c61da1421c1bc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4c/bfd3db5d0f7c7826f36bae0e79f68e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/5b/1256a655b364f95c57f34d217ef700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/78/564d9c6c5ebb5084f62b611f05b9cc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/85/16a1064389467cf0a85cf60f1f8dc5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/85/bca1aea4e5aaa56fa02f75b10195ba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/94/4d6680b41a2981fcc91833104cb13a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b2/6b2640280c650f6f4912a7a0c81ad0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/ca/536a2dfad71c931447b9b2041a1392.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/d2/49c77a1277a404fc338c5d9d72dc32.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e0/f9d07cda2b1f71304945449b8e1cf1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e6/1a6b6cef1365d64753f691c1a7f57d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/fa/da228b77c1c8af9fcf7d256dd40921.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mvc-demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fCegtPiLd88XlIMLUG2Xd7VJrO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fdb879a-a002-4d27-aafd-da6417b975e3" name="默认更改列表" comment="" />
+      <created>1595726615705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595726615705</updated>
+      <workItem from="1595726619586" duration="9832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cs" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="600" y="63" key="SettingsEditor" timestamp="1595736053215">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="600" y="63" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1595736053215" />
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1595728849237">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="814" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1595728849237" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
